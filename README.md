@@ -33,7 +33,7 @@
 - Patch Battery.
 
 ## Credits:
-- Following: [Dortania OpenCore guild.](https://github.com/dortania).
+- Following: [Dortania OpenCore install guild.](https://dortania.github.io/OpenCore-Install-Guide/).
 - [Acidanthera team.](https://github.com/acidanthera)
 - [VoodooI2C team.](https://github.com/VoodooI2C/VoodooI2C)
 - [RehabMan DSDT/SSDT patch GUILD.](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
